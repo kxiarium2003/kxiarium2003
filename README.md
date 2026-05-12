@@ -1,16 +1,29 @@
-## Hi there 👋
+# Minji Kim
 
-<!--
-**kxiarium2003/kxiarium2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at Kwangwoon University 🇰🇷  
+Majoring in Data Science with a background in International Trade.
 
-Here are some ideas to get you started:
+Interested in data, technology, and continuous learning.  
+Building my own archive of learning, projects, and thoughts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Machine Learning
+- Financial Technology
+- Semiconductor Manufacturing
+
+## Tech Stack
+Python · SQL · Pandas · Git · Linux
+
+## Certifications
+ADsP · SQLD
+
+## About Me
+- Writing study logs and project records
+- Exploring data-driven problem solving
+- Interested in tech, books, and thoughtful systems
+
+## Stats
+![stats](https://github-readme-stats.vercel.app/api?username=kxiarium2003&show_icons=true&theme=transparent&hide_border=true)
+
+## Links
+- Email: kxiarium2003@gmail.com
