@@ -22,8 +22,5 @@ ADsP · SQLD
 - Exploring data-driven problem solving
 - Interested in tech, books, and thoughtful systems
 
-## Stats
-![stats](https://github-readme-stats.vercel.app/api?username=kxiarium2003&show_icons=true&theme=transparent&hide_border=true)
-
 ## Links
 - Email: kxiarium2003@gmail.com
