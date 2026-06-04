@@ -1,26 +1,30 @@
 # Minji Kim
 
-Data Science student at Kwangwoon University 🇰🇷  
-Majoring in Data Science with a background in International Trade.
+Data Science student at Kwangwoon University 🇰🇷   
+Interested in data, AI, and continuous learning.
 
-Interested in data, technology, and continuous learning.  
-Building my own archive of learning, projects, and thoughts.
+## Education
+- B.S. in Data Science, Kwangwoon University (2023.03~)
+- Minor in International Finance 
+
+## Featured Projects
+- STEMI Patient Outcome Prediction (MIMIC-IV)
+- Movie Recommendation System
+- Financial Industry Topic Modeling
+- Semiconductor Yield Loss Prediction (In Progress)
+
+## Tech Stack
+Python · SQL · Pandas · Git
+
+## Certifications
+- ADsP
+- SQLD
 
 ## Interests
 - Machine Learning
-- Financial Technology
-- Semiconductor Manufacturing
+- Natural Language Processing
+- Process Mining
+- Semiconductor Manufacturing Data
 
-## Tech Stack
-Python · SQL · Pandas · Git · Linux
-
-## Certifications
-ADsP · SQLD
-
-## About Me
-- Writing study logs and project records
-- Exploring data-driven problem solving
-- Interested in tech, books, and thoughtful systems
-
-## Links
+## Contact
 - Email: kxiarium2003@gmail.com
