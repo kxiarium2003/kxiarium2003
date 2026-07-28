@@ -5,7 +5,11 @@ Interested in data, AI, and continuous learning.
 
 ## Education
 - B.S. in Data Science, Kwangwoon University (2023.03~)
-- Minor in International Finance 
+- Minor in International Finance
+
+## Experience
+- Undergraduate Research Intern @ Data Science Lab (2026.07~)
+- Data Analysis Member @ BOAZ 27th (2026.07~)
 
 ## Featured Projects
 - STEMI Patient Outcome Prediction (MIMIC-IV)
