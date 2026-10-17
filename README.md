@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:3776AB&height=170&section=header&text=Minji%20Kim&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Data%20Science%20for%20Finance%20and%20FinTech&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:3776AB&height=140&section=header&text=Minji%20Kim&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Data%20Science%20for%20Finance%20and%20FinTech&descAlignY=55&descSize=16" />
 </p>
 
 <p align="center">
-  <a href="mailto:kxiarium2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:spaceil2003@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 Data Science student at Kwangwoon University 🇰🇷  
+Building data analysis projects toward a career in **finance & fintech analytics** - from NLP on financial research literature to IoT sensor data. 
 
 ## 🎓 Education
 - **Kwangwoon University** - B.S. in Data Science, minor in International Finance (2023.03 ~)
